@@ -13,7 +13,7 @@ In this repository, you can find some of my projects done during my studies and 
 
 
 
-## Проекты
+## Проекты / Projects
 
 <p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
 <p>Что нужно было сделать:<p>
@@ -59,7 +59,6 @@ In this repository, you can find some of my projects done during my studies and 
 
 
 ## Контактная информация
-- Email: name@email.com
+- Email: pavel@mardeslat.ee
 - LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
-
+- Личный сайт: https://www.mardeslat.ee

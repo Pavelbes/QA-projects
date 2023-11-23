@@ -20,5 +20,5 @@ In this repository, you can find some of my projects done during my studies and 
 
 ## Контактная информация
 - Email: pavel@mardeslat.ee
-- LinkedIn: https://www.linkedin.com/in/username/
+- LinkedIn: https://www.linkedin.com/in/pavel-beskrovnoi-085bb72a0
 - Личный сайт: https://www.mardeslat.ee

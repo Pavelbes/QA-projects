@@ -6,10 +6,9 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
-## Навыки и технологии
+## Навыки и технологии / Skills and technologies
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
-
+``Confluence``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
 
 

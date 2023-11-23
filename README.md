@@ -3,7 +3,7 @@
 ## Обо мне 
 
 Привет! Меня зовут ``Pavel``, я начинающий тестировщик / Hi, my name is ``Pavel`` and I am a beginner in QA <br>
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики <br>
+В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики / <br>
 In this repository, you can find some of my projects done during my studies and internships
 <br>
 

@@ -14,7 +14,7 @@
 
 ### *Курсовая работа SkyPro - Профессия Инженер по тестированию*
 
-Ссылка на [Курсовую работу](https://qa-bag-report-bes.atlassian.net/wiki/x/AYAR).
+Ссылка на [Курсовую работу](https://qa-bag-report-bes.atlassian.net/l/cp/mA5K0E7X).
 
 
 ## Контактная информация
